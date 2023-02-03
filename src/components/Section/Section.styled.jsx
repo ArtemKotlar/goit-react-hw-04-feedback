@@ -1,8 +1,8 @@
 import styled from 'styled-components';
 
 export const Wrapper = styled.section`
-  border: 2px solid #ccc;
-  background-color: #eee;
+  background-color: #8ef7f1;
+  box-shadow: 0px 4px 10px rgb(114, 114, 114);
   border-radius: 5px;
   padding: 16px;
   margin: 16px 0;

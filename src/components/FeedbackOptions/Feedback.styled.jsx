@@ -3,7 +3,7 @@ import styled from 'styled-components';
 export const Button = styled.button`
   border: 1px solid black;
   border-radius: 2px;
-  background-color: #b29696cf;
+  background-color: #5ceb39b2;
   color: black;
   padding: 7px 14px;
   margin-right: 10px;
@@ -11,7 +11,7 @@ export const Button = styled.button`
   cursor: pointer;
   &:hover,
   &:focus {
-    background-color: #d4b1b1cf;
+    background-color: #ffa3a3;
   }
 `;
 
