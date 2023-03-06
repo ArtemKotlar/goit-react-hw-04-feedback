@@ -6,5 +6,5 @@ export const Wrapper = styled.section`
   border-radius: 5px;
   padding: 16px;
   margin: 16px 0;
-  max-width: 250px;
+  max-width: 350px;
 `;
